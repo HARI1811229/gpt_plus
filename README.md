@@ -23,7 +23,3 @@ Here’s what this app can do:
 📖 Summarize topics with Wikipedia.
 
 🤖 Provide intelligent answers using Phi3 Small.
-
-Excited to share this with you all! If you’ve got suggestions, questions, or ideas, drop them in the comments or DM me. Always happy to connect and geek out over cool tech! 💡
-
-#AI #LangChain #Phi3Small #Streamlit #DuckDuckGo #LLM
